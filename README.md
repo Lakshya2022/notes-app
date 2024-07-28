@@ -51,14 +51,3 @@ If not container does not start running in first turn then again run the same co
 npm start
 ```
 
-# Application UI
-
-![Index Page](./pictures/Demo1.png)
-
-![Create Page](./pictures/Demo2.png)
-
-![View Page](./pictures/Demo3.png)
-
-![Edit Page](./pictures/Demo4.png)
-
-![Delete Page](./pictures/Demo5.png)
